@@ -42,7 +42,7 @@ p{
 }
 
 a:link{
-  color: #c12258;
+  color: #B21F50;
   font-size: 16px;
   text-decoration-line: underline;
   text-decoration-style: wavy;
@@ -61,7 +61,7 @@ table{
 }
 
 .colhead{
-  background-color: #7e0830;
+  background-color: #7e0820;
   color: #FFFFFF;
   min-width: 125px;
   padding: 10px;
